@@ -1,9 +1,9 @@
----
-*Name*: Shailendar Rawat
 
-*Roll Number*: 231b303
+ **Name** : Shailendar Rawat.
 
-*Email*: 231b303@juetguna.in
+ **Roll Number** : 231b303
+
+ **Email** : 231b303@juetguna.in
 
 ## Lab Exercise 1
 ###<Solution code to part F>
@@ -13,4 +13,3 @@ b = int(input("Enter Second Number: "))
 
 sum = a+b
 print(sum)
----
